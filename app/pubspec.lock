@@ -715,9 +715,11 @@ packages:
   trufi_core:
     dependency: "direct main"
     description:
-      path: "../../trufi-core"
-      relative: true
-    source: path
+      path: "."
+      ref: "feature/konstanz-adapting"
+      resolved-ref: "1da63d0d06a5abfbc32cc75e7872ec94b93a316b"
+      url: "git@github.com:trufi-association/trufi-core.git"
+    source: git
     version: "2.0.0"
   tuple:
     dependency: transitive

@@ -17,8 +17,11 @@ dependencies:
     sdk: flutter
     
   mqtt_client: ^9.3.1
+  
   trufi_core:
-    path: ../../trufi-core
+    git:
+      url: git@github.com:trufi-association/trufi-core.git
+      ref: feature/konstanz-adapting
 
   vector_tile:
     git:
