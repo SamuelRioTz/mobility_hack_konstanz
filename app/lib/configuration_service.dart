@@ -73,8 +73,8 @@ Configuration setupTrufiConfiguration() {
   ];
 
   final feedbackDefinition = FeedbackDefinition(
-    FeedBackType.url,
-    "https://stadtnavi.de/feedback/",
+    FeedBackType.email,
+    "info@trufi.app",
   );
 
   final customTranslations = TrufiCustomLocalizations()
