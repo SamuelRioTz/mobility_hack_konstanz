@@ -3,7 +3,7 @@ description: A Flutter Application for the hack konstanz
 repository: https://github.com/SamuelRioTz/mobility_hack_konstanz
 issue_tracker: https://github.com/SamuelRioTz/mobility_hack_konstanz/issues
 
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.0+1
 
@@ -15,32 +15,25 @@ dependencies:
 
   flutter:
     sdk: flutter
-    
-  mqtt_client: ^9.3.1
-  
+
   trufi_core:
     git:
       url: git@github.com:trufi-association/trufi-core.git
       ref: feature/konstanz-adapting
-<<<<<<< HEAD
-=======
 
->>>>>>> 6741c7a46dfea7b2aa0f1385e98c1134be0b40fe
   vector_tile:
     git:
       url: https://github.com/trufi-association/dart-vector-tile.git
       ref: fc916fd067cb4e64ab782e6249b4e296c7dba913
-
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 flutter:
-
   uses-material-design: true
 
   assets:
-      - assets/cfg/
-      - assets/data/
-      - assets/images/
+    - assets/cfg/
+    - assets/data/
+    - assets/images/
