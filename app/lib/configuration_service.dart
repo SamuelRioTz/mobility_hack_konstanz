@@ -65,11 +65,7 @@ Configuration setupTrufiConfiguration() {
   // Languages
   final languages = [
     LanguageConfiguration("de", "DE", "Deutsch"),
-    LanguageConfiguration("en", "US", "English"),
-    LanguageConfiguration("es", "ES", "Español", isDefault: true),
-    LanguageConfiguration("fr", "FR", "Français"),
-    LanguageConfiguration("it", "IT", "Italiano"),
-    LanguageConfiguration("qu", "BO", "Quechua simi"),
+    LanguageConfiguration("en", "US", "English", isDefault: true),
   ];
 
   final feedbackDefinition = FeedbackDefinition(
@@ -79,12 +75,12 @@ Configuration setupTrufiConfiguration() {
 
   final customTranslations = TrufiCustomLocalizations()
     ..title = {
-      const Locale("de"): "Honkstanz App (German)",
-      const Locale("en", "US"): "Honkstanz App (English)"
+      const Locale("de"): "Honkstanz App",
+      const Locale("en"): "Honkstanz App "
     }
     ..tagline = {
-      const Locale("de"): "Tagline (German)",
-      const Locale("en", "US"): "Tagline (English)"
+      const Locale("de"): "Trufi Association",
+      const Locale("en"): "Trufi Association"
     };
 
   return Configuration(
