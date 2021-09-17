@@ -10,6 +10,9 @@ import 'package:trufi_core/models/menu/social_media/website_social_media.dart';
 import 'package:trufi_core/services/plan_request/online_graphql_repository/graphql_client/hive_init.dart';
 import 'package:trufi_core/trufi_app.dart';
 
+import 'custom_layers/map_layers/map_leyers.dart';
+import 'custom_layers/static_layer.dart';
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await initHiveForFlutter();
@@ -19,6 +22,11 @@ Future<void> main() async {
       theme: primaryTheme,
       bottomBarTheme: bottomBarTheme,
       configuration: setupTrufiConfiguration(),
+      customLayers: customLayers,
+      mapTileProviders: [
+        MapLayer(MapLayerIds.streets),
+        MapLayer(MapLayerIds.satellite),
+      ],
       menuItems: [
         ...defaultMenuItems,
         [

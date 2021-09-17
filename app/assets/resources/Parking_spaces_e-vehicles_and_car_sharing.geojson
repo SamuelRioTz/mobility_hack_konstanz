@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Parken_E_Fahrzeuge_Carsharing",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 1, "Id": 1, "Standort": "Stephansplatz", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.173756197173571, 47.661638238085303 ] } },
+{ "type": "Feature", "properties": { "FID": 2, "Id": 2, "Standort": "Stephansplatz", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.17374387256096, 47.661618746084102 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "Id": 3, "Standort": "Laube", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.17063731790166, 47.659360356950003 ] } },
+{ "type": "Feature", "properties": { "FID": 4, "Id": 4, "Standort": "Laube", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.17062198388089, 47.659336819204597 ] } },
+{ "type": "Feature", "properties": { "FID": 5, "Id": 5, "Standort": "Bahnhof", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.176856059557821, 47.659011711953603 ] } },
+{ "type": "Feature", "properties": { "FID": 6, "Id": 6, "Standort": "Bodanstraße", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.17613313930865, 47.657869770484297 ] } },
+{ "type": "Feature", "properties": { "FID": 7, "Id": 7, "Standort": "Döbele", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.168836353429869, 47.657638168338899 ] } },
+{ "type": "Feature", "properties": { "FID": 8, "Id": 8, "Standort": "Döbele", "Info": "Markierung und Beschilderung" }, "geometry": { "type": "Point", "coordinates": [ 9.168832469222799, 47.657616454433899 ] } },
+{ "type": "Feature", "properties": { "FID": 9, "Id": 9, "Standort": "Brückenquartier", "Info": "Nur Beschilderung \r\n(Hinweis: Parkplatz unter der Brücke)" }, "geometry": { "type": "Point", "coordinates": [ 9.163655039727329, 47.672164784782197 ] } }
+]
+}
