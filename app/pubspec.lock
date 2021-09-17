@@ -106,13 +106,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.3"
-  event_bus:
-    dependency: transitive
-    description:
-      name: event_bus
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.0.0"
   fake_async:
     dependency: transitive
     description:
@@ -392,13 +385,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
-  mqtt_client:
-    dependency: "direct main"
-    description:
-      name: mqtt_client
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "9.6.0"
   nested:
     dependency: transitive
     description:
@@ -716,8 +702,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "feature/konstanz-adapting"
-      resolved-ref: "1da63d0d06a5abfbc32cc75e7872ec94b93a316b"
+      ref: "9155b1ca2cabb8d7bef98b078f7f257614c571ff"
+      resolved-ref: "9155b1ca2cabb8d7bef98b078f7f257614c571ff"
       url: "git@github.com:trufi-association/trufi-core.git"
     source: git
     version: "2.0.0"

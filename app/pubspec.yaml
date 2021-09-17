@@ -19,7 +19,7 @@ dependencies:
   trufi_core:
     git:
       url: git@github.com:trufi-association/trufi-core.git
-      ref: feature/konstanz-adapting
+      ref: 9155b1ca2cabb8d7bef98b078f7f257614c571ff
 
   vector_tile:
     git:
