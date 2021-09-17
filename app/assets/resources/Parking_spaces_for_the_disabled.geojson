@@ -1,65 +1,940 @@
 {
-"type": "FeatureCollection",
-"name": "Verkehr_Stellplaetze_Fur_Behinderte",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": "Am Pfeiferhölzle", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.1762633154684, 47.683126563225599 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 2, "Name": "Benediktinerplatz \/ Landratsamt", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.177575543457991, 47.668969038356998 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 3, "Name": "Benediktinerplatz \/ Polizei", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.178938865807449, 47.668690206462699 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 4, "Name": "Bismarcksteig", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.177502277162869, 47.675454956646 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 5, "Name": "Bodanplatz", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17504437687114, 47.6576060819446 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 6, "Name": "Brachsengang", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.20476589838956, 47.678703115118601 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 7, "Name": "Döbeleplatz", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.16923887515409, 47.658276224260803 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 8, "Name": "Gottlieber Straße", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.163612499895001, 47.662810983545199 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 9, "Name": "Hafenstraße \/ Klein Venedig", "Informatio": "3 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.177908014611941, 47.656054062971897 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 10, "Name": "Hebelstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.19166611856957, 47.667495225435601 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 11, "Name": "Inselgasse \/ AOK", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.174264967452689, 47.664927355560202 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 12, "Name": "Johann-Sebastian-Bach-Straße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.19921462198273, 47.667406717611897 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 13, "Name": "Lutherplatz", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17135383496842, 47.661143656050101 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 14, "Name": "Markgrafenstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17167058869329, 47.672764676053298 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 15, "Name": "Moltkestraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.181503847256179, 47.670957533837097 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 16, "Name": "Münzgasse", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17597924489033, 47.660993161062002 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 17, "Name": "Obere Laube", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17127938288948, 47.660201973496903 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 18, "Name": "Eichhornstraße \/ Hörnle", "Informatio": "4 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.213533715693121, 47.666548767391298 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 19, "Name": "Milanweg \/ Strandbad Litzelstetten", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.177908095833381, 47.718729304344997 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 20, "Name": "Hermann-Hesse-Weg \/ Therme", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.208394481996301, 47.664115629933498 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 21, "Name": "Riesenbergweg \/ Friedhof", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17360358272698, 47.6798183721314 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 22, "Name": "Schwaketenbad", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.160082764327189, 47.689869938267002 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 23, "Name": "Uferstraße \/ Strandbad Wallhausen", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.13806008385259, 47.745917323744102 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 24, "Name": "Waldfriedhof", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.170538596232509, 47.7079945073354 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 25, "Name": "Rheingasse", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.176678691071951, 47.665368520397799 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 26, "Name": "Rheingutstraße", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.165207669515659, 47.667399786191702 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 27, "Name": "Riedstraße \/ Haltepunkt Wollmatingen", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.147834323672109, 47.681996670439297 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 28, "Name": "Scheffelstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.171749684117399, 47.657283761500302 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 29, "Name": "Schwaketenstraße \/ Halle Wollmatingen", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.157330109553939, 47.688356219207201 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 30, "Name": "Sonnenbühlstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.185931307054529, 47.680192704055003 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 31, "Name": "Spanierstraße \/ Rheinstrandbad", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.175940041745971, 47.668980745431597 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 32, "Name": "St.-Gebhard-Platz", "Informatio": "1 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.183479642531649, 47.670970954367398 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 33, "Name": "St.-Stephans-Platz, Südseite", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.173515788530249, 47.661568512334703 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 34, "Name": "St.-Stephansplatz, Kirche Nordseite", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17440377033774, 47.662718944766297 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 35, "Name": "St.-Stephans-Platz, Kirche Südseite", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17415090178465, 47.662415910353801 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 36, "Name": "St.-Gebhard-Straße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.176097591029549, 47.671495897409898 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 37, "Name": "Schiffstraße, Fähreparkplatz", "Informatio": "3 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.210197717569031, 47.681810209488503 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 38, "Name": "Staader Straße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.20224796906189, 47.680778904682597 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 39, "Name": "Tägermoosstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.1674053012449, 47.6603367646359 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 40, "Name": "Talgartenstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17011557235444, 47.660537137267802 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 41, "Name": "Theatergasse \/ Stadttheater", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.177051023716309, 47.664007071100102 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 42, "Name": "Theodor-Heuss-Straße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.18090750654291, 47.668846142316497 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 43, "Name": "Universitätsstraße \/ Uni-Hauptzufahrt", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.186110290766949, 47.689597403789399 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 44, "Name": "Untere Laube \/ Comeniusschule", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.17287135576805, 47.6624184535927 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 45, "Name": "Wallgutstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.171988381666051, 47.663841685992303 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 46, "Name": "Wallgutstraße \/ Marienhaus", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.170729695758901, 47.664057762850199 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 47, "Name": "Webersteig", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.173822557878159, 47.667321415752099 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 48, "Name": "Zähringerplatz", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.1832088129018, 47.671476460045 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 49, "Name": "Zollernstraße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.1769854100581, 47.661651098955403 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 50, "Name": "Zur Allmannshöhe", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.20211431572953, 47.6875053839834 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 51, "Name": "Neuhauser Straße", "Informatio": "1 Behindertenparkplatz", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.18919302922845, 47.668658307582 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 52, "Name": "Luisenstraße \/ Klinikum Haupteingang", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.187288644096171, 47.672632759460498 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 53, "Name": "Luisenstraße \/ Klinikum", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.18695490416504, 47.672906984287003 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 54, "Name": "Luisenstraße \/ Klinikum 7b", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.18963925359785, 47.673279722483002 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 55, "Name": "Insel Mainau", "Informatio": "4 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.196878642299341, 47.705936196229402 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 56, "Name": "Byk-Gulden-Str. \/ Finanzamt", "Informatio": "2 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.1459782904922, 47.681112609421099 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 57, "Name": "Eichhornstraße", "Informatio": "3 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.210694448313021, 47.667022859445403 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 58, "Name": "P&R am Seerhein", "Informatio": "4 Behindertenparkplätze", "Themen": "Stellplätze_Behinderte" }, "geometry": { "type": "Point", "coordinates": [ 9.164338731158979, 47.673062042320701 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "Verkehr_Stellplaetze_Fur_Behinderte",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1,
+                "Name": "Am Pfeiferhölzle",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1762633154684,
+                    47.683126563225599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2,
+                "Name": "Benediktinerplatz \/ Landratsamt",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177575543457991,
+                    47.668969038356998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 3,
+                "Name": "Benediktinerplatz \/ Polizei",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.178938865807449,
+                    47.668690206462699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4,
+                "Name": "Bismarcksteig",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177502277162869,
+                    47.675454956646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5,
+                "Name": "Bodanplatz",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17504437687114,
+                    47.6576060819446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 6,
+                "Name": "Brachsengang",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20476589838956,
+                    47.678703115118601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 7,
+                "Name": "Döbeleplatz",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.16923887515409,
+                    47.658276224260803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 8,
+                "Name": "Gottlieber Straße",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.163612499895001,
+                    47.662810983545199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 9,
+                "Name": "Hafenstraße \/ Klein Venedig",
+                "Informatio": "3 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177908014611941,
+                    47.656054062971897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 10,
+                "Name": "Hebelstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.19166611856957,
+                    47.667495225435601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 11,
+                "Name": "Inselgasse \/ AOK",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.174264967452689,
+                    47.664927355560202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 12,
+                "Name": "Johann-Sebastian-Bach-Straße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.19921462198273,
+                    47.667406717611897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 13,
+                "Name": "Lutherplatz",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17135383496842,
+                    47.661143656050101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 14,
+                "Name": "Markgrafenstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17167058869329,
+                    47.672764676053298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15,
+                "Name": "Moltkestraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.181503847256179,
+                    47.670957533837097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 16,
+                "Name": "Münzgasse",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17597924489033,
+                    47.660993161062002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 17,
+                "Name": "Obere Laube",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17127938288948,
+                    47.660201973496903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 18,
+                "Name": "Eichhornstraße \/ Hörnle",
+                "Informatio": "4 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.213533715693121,
+                    47.666548767391298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 19,
+                "Name": "Milanweg \/ Strandbad Litzelstetten",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177908095833381,
+                    47.718729304344997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 20,
+                "Name": "Hermann-Hesse-Weg \/ Therme",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.208394481996301,
+                    47.664115629933498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 21,
+                "Name": "Riesenbergweg \/ Friedhof",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17360358272698,
+                    47.6798183721314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 22,
+                "Name": "Schwaketenbad",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.160082764327189,
+                    47.689869938267002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 23,
+                "Name": "Uferstraße \/ Strandbad Wallhausen",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.13806008385259,
+                    47.745917323744102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 24,
+                "Name": "Waldfriedhof",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.170538596232509,
+                    47.7079945073354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 25,
+                "Name": "Rheingasse",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.176678691071951,
+                    47.665368520397799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 26,
+                "Name": "Rheingutstraße",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.165207669515659,
+                    47.667399786191702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 27,
+                "Name": "Riedstraße \/ Haltepunkt Wollmatingen",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.147834323672109,
+                    47.681996670439297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 28,
+                "Name": "Scheffelstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.171749684117399,
+                    47.657283761500302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 29,
+                "Name": "Schwaketenstraße \/ Halle Wollmatingen",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.157330109553939,
+                    47.688356219207201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 30,
+                "Name": "Sonnenbühlstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.185931307054529,
+                    47.680192704055003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 31,
+                "Name": "Spanierstraße \/ Rheinstrandbad",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.175940041745971,
+                    47.668980745431597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 32,
+                "Name": "St.-Gebhard-Platz",
+                "Informatio": "1 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.183479642531649,
+                    47.670970954367398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 33,
+                "Name": "St.-Stephans-Platz, Südseite",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.173515788530249,
+                    47.661568512334703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 34,
+                "Name": "St.-Stephansplatz, Kirche Nordseite",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17440377033774,
+                    47.662718944766297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 35,
+                "Name": "St.-Stephans-Platz, Kirche Südseite",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17415090178465,
+                    47.662415910353801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 36,
+                "Name": "St.-Gebhard-Straße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.176097591029549,
+                    47.671495897409898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 37,
+                "Name": "Schiffstraße, Fähreparkplatz",
+                "Informatio": "3 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.210197717569031,
+                    47.681810209488503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 38,
+                "Name": "Staader Straße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20224796906189,
+                    47.680778904682597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 39,
+                "Name": "Tägermoosstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1674053012449,
+                    47.6603367646359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 40,
+                "Name": "Talgartenstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17011557235444,
+                    47.660537137267802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 41,
+                "Name": "Theatergasse \/ Stadttheater",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177051023716309,
+                    47.664007071100102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 42,
+                "Name": "Theodor-Heuss-Straße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18090750654291,
+                    47.668846142316497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 43,
+                "Name": "Universitätsstraße \/ Uni-Hauptzufahrt",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.186110290766949,
+                    47.689597403789399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 44,
+                "Name": "Untere Laube \/ Comeniusschule",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17287135576805,
+                    47.6624184535927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 45,
+                "Name": "Wallgutstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.171988381666051,
+                    47.663841685992303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 46,
+                "Name": "Wallgutstraße \/ Marienhaus",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.170729695758901,
+                    47.664057762850199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 47,
+                "Name": "Webersteig",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.173822557878159,
+                    47.667321415752099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 48,
+                "Name": "Zähringerplatz",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1832088129018,
+                    47.671476460045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 49,
+                "Name": "Zollernstraße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1769854100581,
+                    47.661651098955403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 50,
+                "Name": "Zur Allmannshöhe",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20211431572953,
+                    47.6875053839834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 51,
+                "Name": "Neuhauser Straße",
+                "Informatio": "1 Behindertenparkplatz",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18919302922845,
+                    47.668658307582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 52,
+                "Name": "Luisenstraße \/ Klinikum Haupteingang",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.187288644096171,
+                    47.672632759460498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 53,
+                "Name": "Luisenstraße \/ Klinikum",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18695490416504,
+                    47.672906984287003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 54,
+                "Name": "Luisenstraße \/ Klinikum 7b",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18963925359785,
+                    47.673279722483002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 55,
+                "Name": "Insel Mainau",
+                "Informatio": "4 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.196878642299341,
+                    47.705936196229402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 56,
+                "Name": "Byk-Gulden-Str. \/ Finanzamt",
+                "Informatio": "2 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1459782904922,
+                    47.681112609421099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 57,
+                "Name": "Eichhornstraße",
+                "Informatio": "3 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.210694448313021,
+                    47.667022859445403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 58,
+                "Name": "P&R am Seerhein",
+                "Informatio": "4 Behindertenparkplätze",
+                "Themen": "Stellplätze_Behinderte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.164338731158979,
+                    47.673062042320701
+                ]
+            }
+        }
+    ]
 }

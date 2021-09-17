@@ -18,4 +18,16 @@ final List<CustomLayerContainer> customLayers = [
       Layer(LayerIds.carSharing),
     ],
   ),
+  CustomLayerContainer(
+    name: (context) =>
+        TrufiLocalization.of(context).localeName == "en" ? "Others" : "Andere",
+    icon: (context) => const Icon(
+      Icons.map,
+      color: Colors.grey,
+    ),
+    layers: [
+      Layer(LayerIds.publicFacilitiesWell),
+      Layer(LayerIds.publicFacilitiesToilets),
+    ],
+  ),
 ];

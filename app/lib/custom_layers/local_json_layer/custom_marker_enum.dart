@@ -3,8 +3,9 @@ import 'package:flutter/material.dart';
 enum LayerIds {
   allParkingSpaces,
   disabledParking,
-  // charging,
   carSharing,
+  publicFacilitiesWell,
+  publicFacilitiesToilets,
 }
 
 extension LayerIdsToString on LayerIds {
@@ -13,6 +14,8 @@ extension LayerIdsToString on LayerIds {
       LayerIds.allParkingSpaces: "All Parking Spaces",
       LayerIds.disabledParking: "Disabled Parking",
       LayerIds.carSharing: "Car Sharing",
+      LayerIds.publicFacilitiesWell: "Public facilities Well",
+      LayerIds.publicFacilitiesToilets: "Public facilities toilets",
     };
 
     return enumStrings[this];
@@ -23,6 +26,8 @@ extension LayerIdsToString on LayerIds {
       LayerIds.allParkingSpaces: Colors.blue,
       LayerIds.disabledParking: Colors.blueAccent,
       LayerIds.carSharing: Colors.orange,
+      LayerIds.publicFacilitiesWell: Colors.purple,
+      LayerIds.publicFacilitiesToilets: Colors.red,
     };
 
     return enumStrings[this];
@@ -33,6 +38,8 @@ extension LayerIdsToString on LayerIds {
       LayerIds.allParkingSpaces: "All Parking Spaces",
       LayerIds.disabledParking: "Disabled Parking",
       LayerIds.carSharing: "Fahrgemeinschaft",
+      LayerIds.publicFacilitiesWell: "Public facilities Well",
+      LayerIds.publicFacilitiesToilets: "Public facilities toilets",
     };
 
     return enumStrings[this];
@@ -43,6 +50,8 @@ extension LayerIdsToString on LayerIds {
       LayerIds.allParkingSpaces: "Alle Parkplätze",
       LayerIds.disabledParking: "Stellplätze für Behinderte",
       LayerIds.carSharing: "Car Sharing",
+      LayerIds.publicFacilitiesWell: "Oeffentliche Einrichtungen Brunnen",
+      LayerIds.publicFacilitiesToilets: "Oeffentliche Einrichtungen Toiletten",
     };
 
     return enumStrings[this];
@@ -53,6 +62,9 @@ Map<LayerIds, String> layerFileNames = {
   LayerIds.allParkingSpaces: "All_parking_spaces.geojson",
   LayerIds.disabledParking: "Parking_spaces_for_the_disabled.geojson",
   LayerIds.carSharing: "Parking_spaces_e-vehicles_and_car_sharing.geojson",
+  LayerIds.publicFacilitiesWell: "Public_facilities_Well.geojson",
+  LayerIds.publicFacilitiesToilets:
+      "Oeffentliche_Einrichtungen_Toiletten.geojson",
 };
 Map<LayerIds, String> layerIcons = {
   LayerIds.allParkingSpaces: """
@@ -161,6 +173,80 @@ Map<LayerIds, String> layerIcons = {
         <path d="m144 156c-2.209 0-4-1.791-4-4v-40c0-2.209 1.791-4 4-4s4 1.791 4 4v40c0 2.209-1.791 4-4 4z" fill="#4c241d" />
         <path d="m144 116c-.613 0-1.227-.141-1.789-.422l-24-12c-1.977-.988-2.777-3.391-1.789-5.367.988-1.975 3.387-2.775 5.367-1.789l22.211 11.105 22.211-11.105c1.979-.986 4.379-.186 5.367 1.789.988 1.977.188 4.379-1.789 5.367l-24 12c-.562.281-1.176.422-1.789.422z" fill="#4c241d" />
     </g>
+</svg>
+   """,
+  LayerIds.publicFacilitiesWell: """
+<svg height="512" viewBox="0 0 54 59" width="512" xmlns="http://www.w3.org/2000/svg">
+    <g id="012---Water-Fountain">
+        <circle id="Oval" cx="31" cy="6" r="6" />
+        <path id="Shape" d="m34.121 26.121 10.879 10.879h9v-16h-17.757c-1.2133697-.0001454-2.3073543.7306299-2.7718425 1.8515744-.4644883 1.1209446-.2080099 2.4113141.6498425 3.2694256z" />
+        <circle id="Oval" cx="40" cy="18" r="1" />
+        <circle id="Oval" cx="43" cy="16" r="1" />
+        <circle id="Oval" cx="46" cy="15" r="1" />
+        <circle id="Oval" cx="49" cy="16" r="1" />
+        <path id="Shape" d="m16.91 8.27c-13.902 8.43-12.261 7.438-14.033 8.518-1.78641484 1.088969-2.876592 3.0298405-2.877 5.122v33.09c.00026837 1.130298.4787291 2.2077208 1.31707055 2.9658482.83834144.7581274 1.95829715 1.1261816 3.08292945 1.0131518 2.08572244-.2686732 3.63608259-2.0623537 3.6-4.165v-28.274l13-7.7v7.2c.0019194.7707239.2989253 1.5114495.83 2.07l6.48 6.77c.757403.7591894 1.8622951 1.0566396 2.8984739.780304 1.0361788-.2763355 1.8462243-1.084475 2.125-2.12.2787758-1.035525-.0160708-2.1411146-.7734739-2.900304l-5.287-5.591c-.1754114-.1857226-.2730926-.4315357-.273-.687 0-10.45.548-9.139-3-14.362-.7099535-1.17053313-1.8562781-2.01066608-3.1862652-2.33519043-1.3299871-.32452436-2.7344363-.10679461-3.9037348.60519043z" />
+    </g>
+</svg>
+   """,
+  LayerIds.publicFacilitiesToilets: """
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	<g>
+		<g>
+			<path d="M146.645,109.31c-54.918,0-55.673,0-101.357,0c-24.466,0-44.468,19.904-44.591,44.367L0,292.109
+			c-0.052,10.407,8.342,18.885,18.747,18.938c0.032,0,0.065,0,0.098,0c10.363,0,18.787-8.375,18.841-18.747l0.696-138.432
+			c0-0.016,0-0.031,0-0.047c0.024-2.055,1.704-3.706,3.759-3.694c2.055,0.012,3.715,1.683,3.715,3.738l0.008,316.757
+			c0,12.488,10.124,22.612,22.612,22.612s22.612-10.124,22.612-22.612V289.888h9.763v180.734c0,12.488,10.123,22.611,22.611,22.611
+			s22.611-10.123,22.611-22.611c0-298.894-0.4-127.966-0.41-316.481c0-2.121,1.674-3.863,3.794-3.946
+			c2.12-0.083,3.928,1.521,4.092,3.635c0,0.001,0,0.002,0,0.002l-0.128,138.354c-0.01,10.406,8.419,18.851,18.825,18.861
+			c0.007,0,0.011,0,0.018,0c10.397,0,18.833-8.426,18.842-18.825l0.128-138.431c0.002-0.039,0.002-0.075,0.001-0.114
+			C191.112,129.214,171.109,109.31,146.645,109.31z" />
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle cx="95.966" cy="57.813" r="39.047" />
+		</g>
+	</g>
+	<g>
+		<g>
+			<path d="M510.941,262.849c-0.346-0.986-34.611-98.717-40.002-114.406c-8.679-25.253-23.23-38.057-43.249-38.057
+			c-28.025,0-37.18,0-65.153,0c-20.02,0-34.571,12.805-43.249,38.057c-5.391,15.688-39.656,113.421-40.002,114.406
+			c-3.418,9.748,1.714,20.423,11.464,23.841c9.758,3.42,20.425-1.725,23.84-11.462c1.106-3.154,21.721-60.433,33.222-93.389
+			c-1.204,9.838,2.264-10.578-26.737,139.154c-1.246,6.431,3.711,12.379,10.201,12.379c4.029,0,8.862,0,14.273,0v135.678
+			c0,12.396,10.049,22.446,22.446,22.446c12.397,0,22.446-10.049,22.446-22.446v-135.68c3.227,0,6.465,0,9.692,0v135.68
+			c0,12.396,10.049,22.446,22.446,22.446c12.397,0,22.446-10.049,22.446-22.446v-135.68c5.411,0,10.245,0,14.273,0
+			c6.522,0,11.446-5.952,10.201-12.379c-28.737-148.369-25.57-131.138-26.55-139.154c11.593,33.211,31.602,90.284,32.691,93.389
+			c3.421,9.756,14.101,14.878,23.84,11.462C509.227,283.27,514.359,272.597,510.941,262.849z" />
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle cx="395.283" cy="59.265" r="38.767" />
+		</g>
+	</g>
+	<g>
+		<g>
+			<path d="M239.761,43.925c-7.969,0-14.43,6.46-14.43,14.43v395.282c0,7.969,6.46,14.429,14.43,14.429
+			c7.97,0,14.43-6.459,14.43-14.429V58.355C254.191,50.385,247.73,43.925,239.761,43.925z" />
+		</g>
+	</g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
+	<g></g>
 </svg>
    """,
 };

@@ -1,0 +1,1412 @@
+{
+    "type": "FeatureCollection",
+    "name": "Oeffentliche_Einrichtungen_Brunnen",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1,
+                "Brunenname": "Trinkwasserbrunnen Egg",
+                "Standort": "Bachgasse 4A",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-29T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Monat",
+                "Reinigung": "Inbetriebnahme u. 2x Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 25,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.19371710598897,
+                    47.692629104839398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2,
+                "Brunenname": "Lindebrunnen",
+                "Standort": "Radolfzellerstr. 14",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "wöchentlich",
+                "Reinigung": "Inbetriebnahme u. 2x / Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 20,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.145847611007159,
+                    47.691419260140798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 3,
+                "Brunenname": "Trinkwasserbrunnen Litzelstetten",
+                "Standort": "Hochbehälter Purren, Richtung Oberdorf",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": null,
+                "Reinigung": "Ortsverwaltung",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 29,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1611299160018,
+                    47.7179317543293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4,
+                "Brunenname": "Brunnen am Friedhof Dettingen",
+                "Standort": "Zur Steig 2",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": null,
+                "Frischwasserversorgung": null,
+                "Sichtkontrollen": null,
+                "Reinigung": "Ortsverwaltung",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": null,
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 37,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.116437709116591,
+                    47.739304906325302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5,
+                "Brunenname": "Barbarossa-Brunnen",
+                "Standort": "Linzgaublick 2",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "Ortsverwaltung",
+                "Reinigung": "Ortsverwaltung",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "ja",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 34,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.132917136866469,
+                    47.7459121211294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 6,
+                "Brunenname": "Quaker-Brunnen",
+                "Standort": "Amalienstraße, Ecke Mainaustraße",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "2x Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 22,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.202986117449781,
+                    47.683346521849799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 7,
+                "Brunenname": "Trinkwasserbrunnen Fähre Konstanz-Staad",
+                "Standort": "Schiffstraße 41 (Fährhafen Konstanz-Staad)",
+                "Typ": "Trinksäule",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 10,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.211025759152211,
+                    47.682352383366698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 8,
+                "Brunenname": "Trinkwasserbrunnen am Wasserwerk Staad",
+                "Standort": "Seehalde 11 Konstanz",
+                "Typ": "Trinksäule",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "Stadtwerke",
+                "Reinigung": "Stadtwerke",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 28,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.213288052404341,
+                    47.671419572835802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 9,
+                "Brunenname": "Gebhardsbrunnen",
+                "Standort": "Mozartstraße, Ecke Zum Gebhardsbrunn",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x 2 Wochen",
+                "Reinigung": "keine",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 26,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.19372987054742,
+                    47.666825510978498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 10,
+                "Brunenname": "Lienhardsbrunnen",
+                "Standort": "Fischenzstraße 65",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Monat",
+                "Reinigung": "2 x Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 23,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.160471649569979,
+                    47.665649059394198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 11,
+                "Brunenname": "Eiserner Brunnen",
+                "Standort": "Brüelstraße 31",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x 2 Wochen",
+                "Reinigung": "2x Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 27,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.16463955453837,
+                    47.665090068404197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 12,
+                "Brunenname": "Steuer-Brunnen",
+                "Standort": "Zollernstraße 26",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 13,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17511838669393,
+                    47.662386694222803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 13,
+                "Brunenname": "Metzgerle-Brunnen",
+                "Standort": "Hüetlinstr. 1 (Bodanplatz)",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 17,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17464917364412,
+                    47.657651172578802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 14,
+                "Brunenname": "Trinkwasserbrunnen an der Dreifaltigkeits-Kirche",
+                "Standort": "Rosgartenstraße 25",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "2x saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 18,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.174617673680469,
+                    47.6588763855449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15,
+                "Brunenname": "Trinkwasserbrunnen am Augustinerplatz",
+                "Standort": "Augustinerplatz 6",
+                "Typ": "Trinksäule",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Monat",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 8,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.173492290977061,
+                    47.6593669546154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 16,
+                "Brunenname": "Trinkwasserbrunnen an der Marktstätte",
+                "Standort": "Marktstätte 3-5",
+                "Typ": "Trinksäule",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 7,
+                "Info": "Vorübergehend Außer Betrieb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.176389718989521,
+                    47.660271043620497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 17,
+                "Brunenname": "Trinkwasserbrunnen am Sea Life Center",
+                "Standort": "Hafenstraße 11 Konstanz",
+                "Typ": "Trinksäule",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 9,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1792458139603,
+                    47.656972314725699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 18,
+                "Brunenname": "Moorschratbrunnen",
+                "Standort": "Konstanzer Straße Dettingen",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-21T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "Ortsverwaltung",
+                "Reinigung": "Ortsverwaltung",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 35,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.11720291508653,
+                    47.7342600357645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1621,
+                "Brunenname": "Konventbrunnen",
+                "Standort": "Benediktinerplatz 5",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "2 x Saison",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 19,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17873460376417,
+                    47.668096280735099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1622,
+                "Brunenname": "Kaiserbrunnen",
+                "Standort": "Marktstätte",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "1x Woche",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 2,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17496497050101,
+                    47.660281920513299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1623,
+                "Brunenname": "Trichterbrunnen",
+                "Standort": "Fischmarkt",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 11,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17681597704046,
+                    47.661259196166597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1624,
+                "Brunenname": "Lenkbrunnen",
+                "Standort": "Untere Laube 24",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "2x Monat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 3,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17281952779927,
+                    47.663041597841499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1625,
+                "Brunenname": "Blätzlebrunnen",
+                "Standort": "Augustinerplatz",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 4,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.173058630942011,
+                    47.659635571751501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1626,
+                "Brunenname": "Kaufmannbrunnen",
+                "Standort": "Seestr. 33 Villa Prym",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1xMonat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 12,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.191162677131651,
+                    47.667307249141501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1627,
+                "Brunenname": "Brunnentische",
+                "Standort": "Brückenplatz Süd",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser Bismarkquelle",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 15,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17621450047247,
+                    47.672702984448399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1628,
+                "Brunenname": "Bürgervereinigung Wollmatingen / Fürstenberg",
+                "Standort": "Sporthalle Wollmatingen",
+                "Typ": "Trinksäule",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Monat",
+                "Reinigung": "2x Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 24,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.157523937734011,
+                    47.688600819777299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1629,
+                "Brunenname": "Palmenhaus",
+                "Standort": "Palmenhauspark",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Monat",
+                "Reinigung": "1x Monat ",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 16,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.16442979499573,
+                    47.660142327478297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2020,
+                "Brunenname": "Münsterbrunnen",
+                "Standort": "Münsterplatz",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "1x Woche",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 1,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17536538536716,
+                    47.663589619221298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2021,
+                "Brunenname": "Wasserspiele Konzil",
+                "Standort": "Konzilvorplatz Hafen",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 5,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17888606438745,
+                    47.6609055529645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2022,
+                "Brunenname": "Telekombrunnen",
+                "Standort": "Sankt-Gebhard-Platz",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": "2x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 6,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18187173275747,
+                    47.671016732084901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2023,
+                "Brunenname": "Eidechsenbrunnen",
+                "Standort": "Mainaustraße",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-04-30T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "1x Monat",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 14,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.188305094472019,
+                    47.670771316206398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2420,
+                "Brunenname": "Theaterbrunnen",
+                "Standort": "Konzilstraße 2",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-05-01T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "1x Woche",
+                "Reinigung": "2x Saison",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 21,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17738315145928,
+                    47.664518051506398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2820,
+                "Brunenname": "Dr. Helga Jauß-Meyer Brunnen / Milchhäüsle",
+                "Standort": "Litzelstetten Komturweg 5",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-05-03T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": "Ortsverwaltung",
+                "Reinigung": "Ortsverwaltung",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 30,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17405598119039,
+                    47.7142476307422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2821,
+                "Brunenname": "Bushaltestelle Zum Purren / Kapelle",
+                "Standort": "Litzelstetten Martin Schleyer Str. 38",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-05-03T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": "Stadtwerke",
+                "Reinigung": "Stadtwerke",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 31,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.172162065021819,
+                    47.715211057764101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 2822,
+                "Brunenname": "Am Brunnen",
+                "Standort": "Dingelsdorf Am Brunnen",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-05-03T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": "Ortsverwaltung",
+                "Reinigung": "Ortsverwaltung",
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": null,
+                "Betreuung": null,
+                "Brunnen_NR": 39,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.155773244217629,
+                    47.7388794826158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4125,
+                "Brunenname": "Kuckucksbrunnen",
+                "Standort": "Großherz.-Friedr.-Str. 12, Litzelstetten",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-07-08T00:00:00Z",
+                "Umwaelzpumpe": null,
+                "Frischwasserversorgung": null,
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 32,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17588574720919,
+                    47.713202850952399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4126,
+                "Brunenname": "Marienkreuz Brunnen",
+                "Standort": "Marienweg 1, Litzelstetten",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-07-07T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 33,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.169731351821049,
+                    47.715823314924002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4526,
+                "Brunenname": "Trinkbrunnen",
+                "Standort": "Kapelle Friedhof Dettingen",
+                "Typ": "Brunnen mit Trinkwasser",
+                "Letzte": "2020-07-17T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": null,
+                "Reinigung": "OV",
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 36,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.116752386531569,
+                    47.7396499387931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4925,
+                "Brunenname": "Am Fließhorn",
+                "Standort": "Dingelsdorf Am Fließhorn 16",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": null,
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV ",
+                "Betreuung": "OV",
+                "Brunnen_NR": 38,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.170936785091421,
+                    47.732692037175603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 4927,
+                "Brunenname": "Eulenbach",
+                "Standort": "Burghofweg-Eulenplatz Wallhausen",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "ja",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 40,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.12546750284363,
+                    47.746175838690696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5325,
+                "Brunenname": "Breitenried",
+                "Standort": "Breitenried Wasserspeicher Stadtwerke FlSt. 1016/2",
+                "Typ": "Trinksäule",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "1",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 41,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.124688587842719,
+                    47.731645490809299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5327,
+                "Brunenname": "Zierbrunnen Tobelweg ",
+                "Standort": "Tobelweg 1 Wallhausen",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "ja",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV / Walter Späth",
+                "Brunnen_NR": 42,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.12771271218692,
+                    47.746963179569498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5328,
+                "Brunenname": "Stierkopfbrunnen",
+                "Standort": "Bagnatosteig 14 b Oberdorf",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "ja",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 43,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.156617770211071,
+                    47.727835440048402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5329,
+                "Brunenname": "Springbrunnen",
+                "Standort": "Steinrennen1e Dingelssdorf",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": null,
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 44,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.154017260517,
+                    47.738770597230904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5330,
+                "Brunenname": "Schwengelpumpe",
+                "Standort": "Steinrennen 1e Dingelsdorf",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 45,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.15394719331252,
+                    47.738707123182799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5331,
+                "Brunenname": "Quellbrunnen",
+                "Standort": "Thingoltstraße 24 Dingelsdorf",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "ja",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 46,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.15509651370072,
+                    47.737409722975897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5332,
+                "Brunenname": "Quellbrunnen",
+                "Standort": "Wallhauser Straße - Untere Weißen",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "Quellwasser",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "ja",
+                "Bemerkung": null,
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 47,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.150308121474991,
+                    47.741268830788698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5333,
+                "Brunenname": "Wasserspiele Energiewürfel",
+                "Standort": "Max Stromeyeyer Str. 21",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-05T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": "ja",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "STW",
+                "Betreuung": "TBK",
+                "Brunnen_NR": 48,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.16355962311234,
+                    47.675035148159999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5334,
+                "Brunenname": "Dorfbrunnen",
+                "Standort": "Dorfplatz Dettingen",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "nein",
+                "Frischwasserversorgung": "nein",
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "ja",
+                "Bemerkung": "Gespeist durch Sickergrube",
+                "Zustaendigkeit": "OV",
+                "Betreuung": "OV",
+                "Brunnen_NR": 49,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.115552479012569,
+                    47.735628433208099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 5335,
+                "Brunenname": "Privatbrunnen Fa. Renz",
+                "Standort": "Am Tobel Dingelsdorf",
+                "Typ": "Brunnen - Kein Trinkwasser",
+                "Letzte": "2020-08-10T00:00:00Z",
+                "Umwaelzpumpe": "ja",
+                "Frischwasserversorgung": null,
+                "Sichtkontrollen": null,
+                "Reinigung": null,
+                "Trinkwasserbrunnen": "0",
+                "Druchlaufbrunnen": "nein",
+                "Bemerkung": null,
+                "Zustaendigkeit": "Privat",
+                "Betreuung": "Privat",
+                "Brunnen_NR": 50,
+                "Info": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1566734450174,
+                    47.739693394911498
+                ]
+            }
+        }
+    ]
+}
