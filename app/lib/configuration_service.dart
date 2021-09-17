@@ -74,10 +74,7 @@ Configuration setupTrufiConfiguration() {
   );
 
   final customTranslations = TrufiCustomLocalizations()
-    ..title = {
-      const Locale("de"): "Honkstanz App",
-      const Locale("en"): "Honkstanz App "
-    }
+    ..title = {const Locale("de"): "Konstanz", const Locale("en"): "Konstanz"}
     ..tagline = {
       const Locale("de"): "Trufi Association",
       const Locale("en"): "Trufi Association"
