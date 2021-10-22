@@ -52,7 +52,7 @@ Configuration setupTrufiConfiguration() {
   // Urls
   final urls = UrlCollection(
     openTripPlannerUrl:
-        "http://159.89.21.4:8080/otp/routers/default/index/graphql",
+        "https://konstanz.trufi.dev/otp/routers/default/index/graphql",
   );
 
   // Map
